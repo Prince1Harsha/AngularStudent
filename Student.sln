@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studentlist", "..\Studentlist\Studentlist\Studentlist.csproj", "{7D49EE6C-EB0E-49AB-B61D-32E8AAA57117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentWebAPIService", "StudentWebAPIService\StudentWebAPIService.csproj", "{C462EB65-2165-4629-94FD-4CBF854D5244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D49EE6C-EB0E-49AB-B61D-32E8AAA57117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D49EE6C-EB0E-49AB-B61D-32E8AAA57117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D49EE6C-EB0E-49AB-B61D-32E8AAA57117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D49EE6C-EB0E-49AB-B61D-32E8AAA57117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C462EB65-2165-4629-94FD-4CBF854D5244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C462EB65-2165-4629-94FD-4CBF854D5244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C462EB65-2165-4629-94FD-4CBF854D5244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C462EB65-2165-4629-94FD-4CBF854D5244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
